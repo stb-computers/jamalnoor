@@ -1,0 +1,53 @@
+
+
+
+.department-banner{  background-color: #DDD; padding: 100px 0px;  background-image:url(../images/department-banner.jpg); background-position:center; background-size:150% auto;}
+.department-banner .container{ position: relative;/* height: 250px;*/}
+.department-title-big{ text-transform: uppercase; font-size: 45px; font-weight: bold; color:#FFF; }
+/*
+.department-absolute-container{ position: absolute; left: 20px; right: 20px; top:150px; z-index: 100;}
+.banner-inner-block p{ color: #FFF;}
+.direction-btn{ padding: 10px 0px; background-color: transparent; opacity:1;}
+.appointment-btn{ background-color: #FFF; color:#73cff4 !important; }
+*/
+
+
+
+.find-a-doctor{padding: 10px 15px;    background-color: #3d688b;    color: #FFF;    cursor: pointer; margin:10px 0px;}
+
+.find-a-doctor img{ width:60px;}
+.find-a-doctor p{ color:#FFF; font-size:12px;}
+
+.fix-appointment{ height:150px; background-color:#666; margin:10px 0px; background-image:url(../images/departments/fix-appointment.jpg); position:relative; background-position:center; background-size:120% auto; padding:20px; padding-top:90px;}
+.fix-appointment .direction-btn{ background-color: #3d688b;  }
+
+.patient-testimonial-container{  border:1px solid #DDD; border-radius:5px; background-color: #ddd; }
+
+.patient-testimonial-div{ padding:20px; min-height:200px; line-height:17px; text-align:justify; font-size:12px;}
+
+.patient-testimonial-container .nbs-flexisel-nav-left,.patient-testimonial-container .nbs-flexisel-nav-right{ top:160px !important;}
+
+
+.department-doctor-slider-li{ }
+
+.department-doctor-slider-div{ margin:10px;  background-color:#FFF; border-radius:5px; overflow:hidden; border:1px solid #F1F2F3 !important; ;}
+
+.department-doctor-slider-div img{ opacity:0.8; width:120%; margin-top:-10px; }
+
+.department-doctor-content{ padding:10px 0px !important; position:relative; text-align: center}
+.department-doctor-name{ line-height:25px !important; padding-bottom:10px}
+
+.book-appointment-button{ border-radius:0px; position:absolute;	; width:100%; right:0px; top:-30px; 
+                          -webkit-transition: height 0.7s; transition: height 0.8s; height: 30px !important; line-height: 5px !important; }
+
+
+
+.department-doctor-slider-div:hover img{ opacity:1; -moz-transform:rotate(3deg);-webkit-transform:rotate(3deg);transform:rotate(3deg);}
+
+.department-doctor-slider-div:hover .book-appointment-button{ opacity:1;}
+
+
+.department-slider-container1{ padding:10px 0px; margin-bottom:25px; background-image:url(../images/blur-blue.jpg); color:#FFF !important; background-position:center;}
+.department-slider-container1 h4{ font-size:15px;}
+.department-slider-container1 p{ display:none; }
+.department-title{ color:#FFF !important;}
