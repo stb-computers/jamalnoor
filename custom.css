@@ -2,7 +2,7 @@
 h1,h2,h3,h4,h5,h6,p,div,span,table tr td,ul li, ul li a,a{font-family:Lato !important;}
 .head-social-icon{font-size:13px;}
 .red-span{background-color:#F00;color:#FFF;padding:7px;border-radius:10px;margin-right:10px;}
-.logo{height:70px;width:360px !important;float:left;background:url('images/logo.png') no-repeat;margin:10px 0;background-size:auto 100%;}
+.logo{height:70px;width:360px !important;float:left;background:url('https://stb-computers.github.io/jamalnoor/images/logo.png') no-repeat;margin:10px 0;background-size:auto 100%;}
 /* .foot-logo{float:none;margin-bottom:20px;height:50px;width:200px;background:url("images/logo-bw.png") no-repeat;background-size:200px auto;} */
 .subtitle{font-size:25px;}
 .subtitle span{color:#DB3D3F;}
